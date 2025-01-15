@@ -8,7 +8,7 @@ Esta é uma aplicação web simples que exibe informações sobre o tempo em uma
 - Exibir a condição climática (sol, nuvens, chuva, etc.)
 - Exibir a velocidade do vento
 - Permitir que o usuário insira o nome da cidade para obter as informações do tempo, [Necessario implementar]
-
+[Necesario implementar]
 ## Como Usar
 
 1. Abra o arquivo `index.html` em um navegador web.
@@ -40,7 +40,3 @@ previsao-do-tempo/
 ## Contribuição
 
 Sinta-se à vontade para contribuir com o projeto, reportar problemas ou sugerir melhorias. Basta abrir uma nova issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
