@@ -35,7 +35,7 @@ previsao-do-tempo/
 
 - `index.html`: Contém a estrutura HTML da aplicação.
 - `style.css`: Contém os estilos CSS da aplicação.
-- `script.js`: Contém a lógica JavaScript da aplicação, [Necesario implementar]incluindo a integração com a API de previsão do tempo.
+- `script.js`: Contém a lógica JavaScript da aplicação, incluindo a integração com a API de previsão do tempo. [Necesario implementar]
 
 ## Contribuição
 
